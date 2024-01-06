@@ -1,2 +1,2 @@
 # user-encryption-wrapper
-User based 256bit AES-CBC encryption wrapper for Laravel.
+Please use latest stable version in another version repository.
